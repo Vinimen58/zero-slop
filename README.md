@@ -1,6 +1,6 @@
 # Zero Slop
 
-An English-language product quality skill for auditing, refining, and building interfaces with evidence from the product, its users, and its real behavior.
+Zero Slop is an anti-AI-slop design skill for auditing, refining, and building distinctive, usable interfaces. It helps agents avoid generic AI-generated layouts, copy, color palettes, and typography by grounding design decisions in the product's identity, users, accessibility needs, and real behavior.
 
 ## Contents
 
