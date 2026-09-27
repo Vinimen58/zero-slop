@@ -1,0 +1,12 @@
+{
+  "name": "zero-slop",
+  "version": "1.0.0",
+  "description": "Evidence-based guidance for building, refining, and auditing product interfaces.",
+  "license": "UNLICENSED",
+  "keywords": [
+    "interface-audit",
+    "usability",
+    "product-design",
+    "accessibility"
+  ]
+}

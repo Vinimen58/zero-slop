@@ -1,0 +1,13 @@
+{
+  "name": "zero-slop-skill-repo",
+  "version": "1.0.0",
+  "private": true,
+  "license": "UNLICENSED",
+  "description": "The Zero Slop product interface quality skill and supporting examples.",
+  "scripts": {
+    "validate": "node scripts/validate-skill.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
